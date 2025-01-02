@@ -62,8 +62,6 @@ Build a temperature converter that allows users to convert between Celsius and F
 
 ## Conversion Formulas to Use
 
-- Celsius to Fahrenheit: (C × 9/5) + 32
-- Fahrenheit to Celsius: (F - 32) × 5/9
 - Celsius to Fahrenheit: `(C × 9/5) + 32`
 - Fahrenheit to Celsius: `(F - 32) × 5/9`
 - Celsius to Kelvin: `C + 273.15`

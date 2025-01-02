@@ -1,5 +1,8 @@
 # Temperature Converter Project
 
+## Output
+    ![alt text](image.png)
+
 ## Overview
 
 Build a temperature converter that allows users to convert between Celsius and Fahrenheit units. This project will help reinforce your understanding of JavaScript basics, DOM manipulation, and user interaction.
